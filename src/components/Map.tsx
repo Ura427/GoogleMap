@@ -23,7 +23,6 @@ import {
 
 //TYPES
 import { Location, MarkerData } from "../types/types";
-import { useFirebaseUpdate } from "../hooks/useFirebaseUpdate";
 import { useFirebaseData } from "../hooks/useFirebaseData";
 
 //STYLES
